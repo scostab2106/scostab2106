@@ -12,7 +12,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/scostab2106)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=scostab2106&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 ## Markup and stile languages
 
