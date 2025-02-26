@@ -1,5 +1,6 @@
 # SAMUEL DA COSTA BRITO FERREIRA CORRÊA  
-## - Python developer and data scientist
+## - Python developer 
+## - Data scientist
 ## - Ethical hacker    
 
 
